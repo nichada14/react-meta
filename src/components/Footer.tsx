@@ -16,17 +16,6 @@ const Footer = () => {
                             Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit optio dicta consectetur accusamus soluta expedita officiis aliquid tenetur earum doloribus impedit.
                         </p>
                         <br />
-                        {/* contact section */}
-                        <div>
-                            <div className="flex items-center gap-3">
-                                <FaLocationArrow />
-                                <p>Nodia, Uttar Pradesh</p>
-                            </div>
-                            <div className="flex items-center gap-3">
-                                <FaMobileAlt />
-                                <p>+91 123456789</p>
-                            </div>
-                        </div>
                         {/* social handle */}
                         <div className="flex items-center gap-3 mt-6">
                             <a href="#">
